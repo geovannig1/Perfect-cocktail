@@ -40,3 +40,16 @@ Based only on serum creatinine and ejection fraction, we will be able to forecas
 ![alt text](media/tb3.PNG)</br>
 ![alt text](media/image9.png)</br></br>
 
+## Classification:
+![alt text](media/tb4.PNG)</br>
+<b>Classification - Loss Function: Categorical_crossentropy : </b>
+![alt text](media/image2.png)</br>
+![alt text](media/tb5.PNG)</br>
+<b>Classification - Loss Function: Mean_squared_error :</b>
+
+![alt text](media/tb6.PNG)</br>
+<b>Classification - Loss Function: Binary_crossentropy : </b>
+![alt text](media/image4.png)</br>
+
+## Contribution
+To contribute, fork the repo and make changes then upload the changes with pull request.
